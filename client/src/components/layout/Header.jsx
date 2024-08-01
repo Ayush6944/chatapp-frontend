@@ -94,7 +94,7 @@ const Header = ({bgheader}) => {
                 display: { xs: "none", sm: "block" },
               }}
             >
-              BAAt-CHAt
+              Baat-Chiit
             </Typography>
            
             <Box
